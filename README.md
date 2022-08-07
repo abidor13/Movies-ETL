@@ -18,11 +18,21 @@
 
 ### The images below display a portion of the infomation each table provides, as well as the total number of rows in each table.
 
-![](Resources/movies_table.PNG)                 ![](Resources/movies_query.PNG)
+* Movies Table
 
-![](Resources/ratings_table.PNG)                ![](Resources/ratings_query.PNG)
+![](Resources/movies_table.PNG)
 
+* Movies Query
 
+![](Resources/movies_query.PNG)
+
+* Ratings Table
+
+![](Resources/ratings_table.PNG)                
+
+* Ratings Query
+
+![](Resources/ratings_query.PNG)
 
 
 
